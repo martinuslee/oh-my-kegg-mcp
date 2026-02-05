@@ -1,0 +1,24 @@
+# KEGG MCP 서버와 LangChain 통합을 위한 필수 패키지
+
+# LangChain 핵심 패키지
+langchain>=1.2.8
+langchain-ollama>=0.1.0
+
+# LangChain MCP 통합 (필수)
+langchain-mcp-adapters>=0.1.0
+
+# MCP 서버 (Python)
+mcp>=1.0.0
+
+# HTTP 클라이언트
+httpx>=0.27.0
+
+# ASGI 서버 (Streamable HTTP용)
+uvicorn>=0.27.0
+
+# 환경 변수 관리
+python-dotenv>=1.2.1
+
+# 선택적 패키지 (다른 LLM 모델 사용 시)
+# langchain-openai>=1.1.7      # OpenAI 사용 시 주석 해제
+# langchain-anthropic>=0.2.0   # Anthropic Claude 사용 시 주석 해제
