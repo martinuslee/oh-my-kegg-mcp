@@ -1,4 +1,4 @@
-# Oh my KEGG MCP
+# Oh My KEGG MCP
 
 KEGG (Kyoto Encyclopedia of Genes and Genomes) 데이터베이스에 접근하기 위한 Model Context Protocol (MCP) 서버입니다.(unofficial)
 
