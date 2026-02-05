@@ -1,6 +1,6 @@
-# KEGG MCP Server
+# Oh my KEGG MCP
 
-KEGG (Kyoto Encyclopedia of Genes and Genomes) 데이터베이스에 접근하기 위한 Model Context Protocol (MCP) 서버입니다. Streamable HTTP transport를 사용하여 웹 기반 접근을 지원합니다.
+KEGG (Kyoto Encyclopedia of Genes and Genomes) 데이터베이스에 접근하기 위한 Model Context Protocol (MCP) 서버입니다.(unofficial)
 
 ## 주요 기능
 
